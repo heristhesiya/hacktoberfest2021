@@ -1,5 +1,7 @@
 body {
     font-family: "Arial", sans-serif;
+    margin: 0px;
+    padding: 0px;
 }
 
 section {
@@ -39,7 +41,7 @@ section {
 }
 
 .game--restart {
-    background-color: #f7e4ac;
+    background-color: yellow;
     width: 200px;
     height: 50px;
     font-size: 25px;
